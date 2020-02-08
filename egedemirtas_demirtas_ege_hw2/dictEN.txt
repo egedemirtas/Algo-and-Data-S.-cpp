@@ -1,0 +1,1019 @@
+a bir
+able yapabilen
+about  	hakkinda
+above	ustunde
+across	karsisinda
+act	hareket, eylem
+action	aksiyon
+actually	aslinda
+add	eklemek
+addition	ek olarak
+adjective	sifat
+afraid	korkmus
+Africa	Afrika
+after	sonra
+again	yeniden, yine
+against	karsisinda
+age	yas
+ago	once
+agreed	anlasildi, kararlastirildi
+ahead	onunde
+air	hava
+all	hepsi
+allow	izin vermek
+almost	neredeyse
+alone	yalniz
+along	boyunca
+already	zaten
+also	ayrica
+although	ragmen
+always	her zaman
+America	Amerika
+among	arasinda
+amount	miktar
+an	bir tek
+and	ve
+angle	aci
+animal	hayvan
+another	diger
+answer	cevap
+any	herhangi
+anything	hicbir sey
+appear	gozukmek
+apple	elma
+are	olmak fiili
+area	bolge
+arms kollar
+army	ordu
+around	etraf
+arrived	varmak (gecmis zaman)
+art	sanat
+as	iken
+ask	sormak
+at	-de, -da
+away	uzak
+
+baby	bebek
+back	arka
+bad	kotu
+ball	top
+bank	banka
+base	temel
+be	olmak
+bear	ayi
+beat	yenmek
+beautiful	guzel
+became	olmak (gecmis zaman)
+because	cunku
+become	olmak
+bed	yatak
+been	olmak (gecmis zaman, pasif)
+before	once
+began	baslamak (gecmis zaman)
+begin	baslamak
+behind	arka
+being	olmak (simdiki zaman)
+believe	inanmak
+bell	zil
+belong	ait olmak
+below	altinda
+beside	yaninda
+best	en iyi
+better	daha iyi
+between	arasinda
+big	buyuk
+bill	fatura
+birds	kuslar
+bit	kucuk parca
+black	siyah
+block	engellemek, bloklamak
+blood	kan
+blow	patlatmak
+blue	mavi
+board	tablo
+boat	bot
+body	vucut
+bone	kemik
+book	kitap
+born	dogmus
+both	ikisi de
+bottom	dip
+box	kutu
+boy	erkek cocuk
+branch	dal
+break	kirmak
+bright	parlak
+bring	getirmek
+British	Britanyali
+broken	kirik
+brother	erkek kardes
+brought	getirilmis
+brown	kahverengi
+build	bina etmek
+building	bina
+built	bina edilmis
+burn	yanmak
+business	isletme
+but	fakat
+buy	satin almak
+by	tarafindan
+
+call	aramak
+came	geldi
+can	yapabilmek
+cannot	yapamamak
+can't	yapamamak
+capital	basken
+captain	yuzbasi, kaptan
+car	araba
+care	onemsemek
+carefully	dikkatlice
+carry	tasimak
+case	dava, kilif
+cat	kedi
+catch	yakalamak
+cattle	inek
+caught	yakalamak (gecmis zaman)
+cause	sebep
+cell	hucre
+center	merkez
+cent	sent, para birimi
+century	yuzyil
+certain	kesin
+chance	sans
+change	degismek
+chart	tablo
+check	kontrol etmek
+chief	sef
+child	cocuk
+children	cocuklar
+choose	secmek
+church	kilise
+circle	cember
+city	sehir
+class	sinif
+clean	temiz
+clear	temizlemek
+climb	tirmanmak
+close	kapatmak
+cloth	elbise
+cloud	bulut
+coast	kiyi
+cold	soguk
+color	renk
+column	kolon
+come	gelmek
+common	ortak
+company	sirket
+compare	karsilastirmak
+complete	tamamlanmis
+compound	madde
+condition	durum
+consider	dusunmek
+consonant	unsuz harf
+contain	icermek
+continue	devam etmek
+control	kontrol
+cook	pisirmek
+cool	soguk
+copy	kopyalamak
+corn	misir
+corner	kose
+correct	dogru
+cost	masraf
+cotton	pamuk
+could	yapabilmek (gecmis zaman)
+couldn't	yapamamak (gecmis)
+count	saymak
+country	ulke
+course	kurs
+cover	kapsamak
+cow	inek
+create	olusturmak
+cry	aglamak
+crop	ekin
+cross	capraz
+crowd	kalabalik
+current	mevcut
+cut	kesmek
+
+dance	dans etmek
+dark	karanlik
+day	gun
+dead	olu
+deal	anlasma
+death	olum
+decide	karar vermek
+decimal	ondalik
+deep	derin
+describe	aciklamak
+desert	col
+design	tasarim
+details	ayrintilar
+determine	belirlemek
+develop	gelistirmek
+dictionary	sozluk
+did	yapti
+didn't	yapmadi
+died	oldu
+difference	fark
+different	farkli
+difficult	zor
+direct	direkt
+direction	yon
+discover	kesfetmek
+distance	mesafe
+divided	bolunmus
+division	bolum
+do	yapmak
+doctor	doktor
+does	yapmak
+doesn't	yapmamak
+dog	kopek
+dollar	dolar
+done	yapmak (gecmis)
+don't	yapmamak
+door	kapi
+down	asagi
+draw	cizmek
+drawing	cizim
+dress	elbise
+drive	araba kullanmak
+drop	dusmek
+dry	kuru
+during	boyunca
+
+each	her biri
+early	erken
+ear	kulak
+earth	toprak, dunya
+east	dogu
+easy	kolay
+eat	yemek
+edge	kenar
+effect	etki
+egg	yumurta
+eight	sekiz
+either	ikisi de
+electric	elektrik
+element	element
+else	diger
+end	son
+energy	enerji
+engine	motor
+England	ingiltere
+English	ingiliz
+enjoy	eglenmek
+enough	yeterli
+enter	girmek
+entire	tum
+equal	esit
+equation	denklem
+especially	ozellikle
+Europe	Avrupa
+even	esit
+evening	aksam
+ever	hep
+every	hepsi
+everyone	herkes
+everything	her sey
+exactly	aynen
+example	ornek
+except	haric
+exciting	heyecan verici
+exercise	egzersiz
+expect	beklemek, ummak
+experience	tecrube
+experiment	deney
+explain	aciklamak
+express	ekspres
+eye	goz
+
+face	yuz
+fact	gercek
+factoriy	fabrika
+factors	faktorler
+fall	dusmek
+family	aile
+famous	unlu
+far	uzak
+farm	ciftlik
+farmer	ciftci
+fast	hizli
+father	baba
+fear	korku
+feel	hissetmek
+feeling	his
+feet	ayaklar
+fell	dusmus
+felt	hissetmis
+few	birkac
+field	alan
+fig	incir
+fight	kavga
+figure	figur
+filled	doldurulmus
+finally	nihayetinde
+find	bulmak
+fine	iyi
+fingers	parmaklar
+finished	bitmis
+fire	ates
+first	birinci
+fish	balik
+fit	uymak
+five	bes
+flat	duz
+floor	zemin
+flow	akmak
+flowers	cicekler
+fly	ucmak
+follow	takip etmek
+food	yemek
+foot	ayak
+for	icin
+force	guc
+forest	orman
+form	yapi
+forward	ileri
+found	bulunmus
+four	dort
+fraction	parca
+France	Fransa
+free	bedava
+French	Fransiz
+fresh	taze
+friends	arkadaslar
+from	tarafindan
+front	on
+fruit	meyve
+full	tam
+fun	eglence
+
+game	oyun
+garden	bahce
+gas	gaz
+gave	verdi
+general	genel
+get	almak
+girl	kiz
+give	vermek
+glass	cam
+go	gitmek
+God	tanri
+gold	altin
+gone	gitmis
+good	guzel
+got	sahip olmak
+government	hukumet
+grass	cimen
+great	muthis
+Greek	Yunan
+green	yesil
+grew	buyumus
+ground	zemin
+group	grup
+grow	buyumek
+guess	tahmin etmek
+gun	silah
+
+had	sahip olmak (gecmis)
+hair	sac
+halt	durmak
+hand	el
+happen	olmak
+happy	mutlu
+hard	zor
+has	sahip olmak
+hat	sapka
+have	sahip olmak
+he	erkek
+head	bas
+hear	duymak
+heard	duydu
+heart	kalp
+heat	isi
+heavy	agir
+held	tutmak (gecmis)
+help	yardim
+her	O (kadin)
+here	burada
+high	yuksek
+hill	tepe
+him	O (erkek)
+himself	kendisi (erkek)
+his	onun (erkek)
+history	tarih
+hit	vurmak
+hold	tutmak
+hole	delik
+home	ev
+hope	umut
+horse	at
+hot	sicak
+hour	saat
+house	ev
+how	nasil
+however	ancak
+huge	dev
+human	insan
+hundred	yuz (sayi)
+hunting	avlanma
+
+i	ben
+ice	buz
+idea	fikir
+if	eger
+i'll	ben (gelecekte)
+important	onemli
+in	iceri
+inches	inc (uzunluk birimi)
+include	icermek
+increase	yukselmek
+indian	Hindistanli
+indicate	gostermek
+industry	endustri
+information	bilgi
+insect	bocek
+inside	icinde
+instead	yerine
+instruments	enstruman
+interest	ilgi
+interesting	ilginc
+into	icine
+iron	demir
+is	olmak
+island	ada
+isn't	olmamak
+it	o (hayvan veya cansiz)
+its	onun
+it's	olmak (hayvan veya cansiz)
+itself	kendisi (hayvan veya cansiz)
+
+Japanese	Japon
+job	is
+join	katilmak
+jump	ziplamak
+just	sadece
+
+keep	saklamak
+kept	saklanmis
+key	anahtar
+kill	oldurmek
+kind	kibar
+king	kral
+knew	bilmek (gecmis)
+know	bilmek
+known	bilinmis
+
+lady	kadin
+lake	gol
+land	arazi
+language	dil
+large	genis
+last	son
+later	sonra
+laugh	gulmek
+law	kanun
+lay	uzanmak
+lead	kursun
+learn	ogrenmek
+least	en azi
+leave	terketmek
+led	onderlik etmek (gecmis)
+left	sol
+leg	ayak
+length	uzunluk
+less	az
+let	izin vermek
+let's	haydi
+letter	mektup
+level	seviye
+lie	yalan soylemek
+life	hayat
+lift	kaldirmak
+light	isik
+like	begenmek
+line	cizgi
+list	liste
+listen	dinlemek
+little	kucuk
+live	yasamak
+location	lokasyon
+long	uzun
+look	bakmak
+lost	kayip
+lot	cok
+loud	gurultulu
+love	sevmek
+low	dusuk
+
+machine	makine
+made	yapilmis
+main	ana
+major	major
+make	yapmak
+man	erkek
+many	cok
+map	harita
+march	mart
+mark	isaret
+match	mac
+material	materyal
+matter	madde
+may	belki
+maybe	belki
+me	ben
+mean	anlam
+measure	olcu
+meat	et
+meet	tanismak
+melody	melodi
+member	uye
+men	erkekler
+metal	metal
+method	metot
+middle	orta
+might	belki
+mile	mil
+milk	sut
+million	milyon
+mind	akil
+mine	maden
+minute	dakika
+miss	ozlemek
+modern	modern
+molecules	molekul
+moment	an
+money	para
+month	ay
+moon	ay
+more	daha
+morning	gunduz
+most	en fazla
+mother	anne
+mountain	dag
+mouth	agiz
+move	hareket etmek
+movement	hareket
+much	fazla
+music	muzik
+must	zorunda olmak
+my	benim
+
+name	isim
+nation	millet
+natural	dogal
+near	yaninda
+necessary	gerekli
+need	ihtiyac duymak
+never	asla
+new	yeni
+next	sonraki
+night	gece
+no	hayir
+nor	veya (olumsuz)
+north	kuzey
+northern	kuzeyli
+nose	burun
+not	hayir
+note	not
+nothing	hicbir sey
+notice	farketmek
+noun	isim
+now	simdi
+number	sayi
+numeral	sayisal
+
+object	obje
+observe	gozlemlemek
+ocean	okyanus
+of	-den, -dan
+off	kapali
+office	ofis
+often	sikca
+oh	oh
+oil	petrol, yag
+old	yasli
+on	acik
+once	bir kere
+one	bir
+only	sadece
+open	acik
+opposite	zit
+or	veya
+order	duzen
+other	diger
+our	bizim
+out	disari
+outside	disarisi
+over	uzerinde
+own	sahip olmak
+oxygen	oksijen
+
+page	sayfa
+paint	boyamak
+pair	cift
+paper	kagit
+paragraph	paragraf
+park	park
+part	bolum
+particular	belli
+party	parti
+passed	gecmis
+past	gecmis
+pattern	patern
+pay	odemek
+people	insanlar
+per	basina
+perhaps	belki
+period	nokta
+person	insan
+phrase	cumle parcasi
+pick	secmek
+picture	resim
+piece	parca
+place	yer
+plain	duz
+plan	plan
+plane	ucak
+plant	bitki
+plants	bitkiler
+play	oynamak
+please	lutfen
+plural	cogul
+poem	siir
+point	puan
+pole	kutup
+poor	fakir
+position	pozisyon
+possible	mumkun
+pound	agirlik birimi
+power	guc
+practice	pratik
+prepare	hazirlanmak
+president	baskan
+pretty	guzel
+printed	yazilmis
+probably	belki
+problem	sorun
+process	islem
+produce	uretmek
+product	urun
+property	mulk
+provide	saglamak
+pull	cekmek
+push	itmek
+put	koymak
+
+question	soru
+quickly	hizlica
+quiet	sessiz
+quite	oldukca
+
+race	yaris
+radio	radyo
+rain	yagmur
+raise	yukseltmek
+ran	kosmak (gecmis)
+rather	-dense
+reach	ulasmak
+read	okumak
+ready	hazir
+really	gercekten
+reason	sebep
+receive	almak
+record	kayit
+red	kirmizi
+region	bolge
+remain	kalan
+remember	hatirlamak
+repeat	tekrar etmek
+report	rapor
+represent	temsil etmek
+resent	gucenmek
+rest	dinlenmek
+result	sonuc
+return	donmek
+rhythm	ritim
+rich	zengin
+ride	binmek
+right	sag
+ring	zil calmak
+rise	yukselmek
+river	nehir
+road	yol
+rock	kaya
+rolled	yuvarlanmis
+room	oda
+root	kok
+rope	halat
+rose	gul
+round	yuvarlak
+row	satir
+rule	kural
+run	kosmak
+
+safe	guvenli
+said	dedi
+sail	yelken acmak
+same	ayni
+sand	kum
+sat	oturdu
+save	kurtarmak
+saw	testere
+say	soylemek
+scale	olcek
+school	okul
+science	bilim
+scientist	bilim adami
+score	skor
+sea	deniz
+seat	koltuk
+second	saniye
+section	bolum
+see	gormek
+seed	tohumlar
+seem	gorunmek
+seen	gorunmek
+sell	satmak
+send	gondermek
+sense	his
+sent	gonderilmis
+sentence	cumle
+separate	ayri
+serve	hizmet etmek
+set	ayarlamak
+settled	ayarlanmis
+seven	yedi
+several	birkac
+shall	olsun
+shape	sekil
+sharp	keskin
+she	O (kadin)
+ship	gemi
+shoes	ayakkabi
+shop	dukkan
+short	kisa
+should	zorunda olmak
+shoulder	omuz
+shout	bagirmak
+show	gostermek
+shown	gosterilmis
+side	yan
+sight	gorus
+sign	isaret
+signal	sinyal
+silent	sessiz
+similar	benzer
+simple	basit
+since	-den beri
+sing	sarki soylemek
+sir	efendi
+sister	kiz kardes
+sit	oturmak
+six	alti
+size	boyut
+skin	deri
+sky	hava
+sleep	uyku
+slowly	yavasca
+small	kucuk
+smell	koklamak
+smile	gulumsemek
+snow	kar
+so	soyle
+soft	yumusak
+soil	toprak
+soldier	asker
+solution	cozum
+some	bazi
+someone	birisi
+something	bir sey
+sometimes	bazen
+son	erkek cocuk
+song	sarki
+soon	yakinda
+sound	ses
+south	guney
+southern	guneyli
+space	uzay, bosluk
+speak	konusmak
+special	ozel
+speed	hiz
+spell	hecelemek
+spot	nokta
+spread	yayilmak
+spring	ilkbahar
+square	kare
+stand	ayakta durmak
+star	yildiz
+start	baslamak
+state	durum
+statement	ifade
+stay	kalmak
+steel	celik
+step	adim
+stick	yapismak
+still	halen
+stone	tas
+stood	ayakta durmus
+stop	durmak
+store	dukkan
+story	hikaye
+straight	duz
+strange	garip
+stream	akinti
+street	sokak
+stretch	genisletmek
+string	dizi
+strong	guclu
+student	ogrenci
+study	calismak
+subject	konu
+substance	madde
+such	ornegin
+suddenly	aniden
+suffix	son ek
+sugar	seker
+suggested	tavsiye edilmis
+sum	ozet
+summer	yaz
+sun	gunes
+supply	malzeme
+suppose	tahmin yurutmek
+sure	emin
+surface	yuzey
+surprise	supriz
+swim	yuzmek
+syllables	ders programi
+symbols	sembol
+system	sistem
+
+table	masa
+tail	kuyruk
+take	almak
+talk	konusmak
+tall	uzun
+teacher	ogretmen
+team	takim
+tell	soylemek
+temperature	sicaklik
+ten	on
+term	donem
+test	denemek
+than	-den
+that	o (esya)
+the	o
+their	onlarin
+them	onlar
+themselves	onlarin kendisi
+then	sonra
+there	orada
+these	bunlar
+they	onlar (insan)
+thick	kalin
+thin	ince
+thing	sey
+think	dusunmek
+third	ucuncu
+this	o
+those	onlar
+though	-e ragmen
+thought	dusunce
+thousands	binlerce
+three	uc
+through	arasindan
+thus	nitekim
+tied	bagli
+time	zaman
+tiny	kucucuk
+to	ona
+today	bugun
+together	birlikte
+told	soyledi
+tone	ton
+too	cok
+took	almak (gecmis zaman)
+tool	alet
+top	ust
+total	toplam
+touch	dokunmak
+toward	-e dogru
+town	yerleske
+track	takip etmek
+trade	ticaret
+train	tren
+train	egitmek
+travel	yolculuk
+tree	agac daragaci
+triangle	ucgen
+trip	yolculuk
+trouble	sorun
+truck	kamyon
+true	dogru
+try	denemek
+tube	tup
+turn	donus
+two	iki
+type	yazmak
+
+uncle	amca
+under	altinda
+underline	alt cizgi vurgulama
+understand	anlamak
+unit	unite
+until	-e kadar
+up	yukari
+upon	ustune
+us	biz
+use	kullanmak
+usually	genellikle
+
+valley	vadi
+value	deger
+various	cesitli
+verb	fiil
+very	cok
+view	gorus
+village	koy
+visit	ziyaret
+voice	ses
+vowel	sesli harf
+
+wait	beklemek
+walk	yurumek
+wall	duvar
+want	istemek
+war	savas
+warm	sicak
+was	olmak (gecmis)
+wash	yikamak
+Washington	Washington
+wasn't	olmamak (gecmis)
+watch	izlemek
+water	su
+waves	dalgalar
+way	yol
+we	biz
+wear	giymek
+weather	hava
+week	hafta
+weight	kilo
+well	iyi
+we'll	biz (gelecek zaman)
+went	gitmek (gecmis)
+were	olmak (cogul, gecmis)
+west	bati
+western	batili
+what	ne?
+wheel	tekerlek
+when	ne zaman?
+where	nerede?
+whether	eger
+which	hangisi?
+while	suresince
+white	beyaz
+who	kim?
+whole	butun
+whose	kimin?
+why	neden?
+wide	genis
+wife	es (kadin)
+wild	vahsi
+will	istek
+win	kazanmak
+wind	ruzgar
+window	pencere
+wing	kanat
+winter	kis
+wire	kablo
+wish	dilemek
+with	birlikte
+within	icinde
+without	olmadan
+woman	kadin
+women	kadinlar
+wonder	merak etmek
+won't olmamak (gelecek)
+wood agac
+word kelime
+work is
+worker isci
+world dunya
+would istemek
+wouldn't istememek
+write yazmak
+written yazili
+wrong yanlis
+wrote yazmak (gecmis)
+yard bahce
+year yil
+yellow sari
+yes evet
+yet henuz
+you sen
+young genc
+your senin
+you're sen (olmak)
+yourself kendin
